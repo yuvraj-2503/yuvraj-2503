@@ -1,10 +1,5 @@
-### Hi there 👋  ![](https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Cover%20Pics.png)
-# Hi There 👋    ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/yuvraj-2503)
-
-# Hi There 👋
-
-<!--
-**yuvraj-2503/yuvraj-2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Cover%20Pics.png)
+# Hi There 👋    
 
 This is **Yuvraj** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
@@ -17,4 +12,4 @@ This is **Yuvraj** here. Most probably you know me. If you know me then I am gla
          <a href="https://twitter.com/YuvrajS02491062">Twitter</a> or<a href="mailto:singh.yuvraj1047@gmail.com">Email</a>
 - 😄 Pronouns: ...**Competitive Coder** , **Kind-Hearted** and **Straight-Forward**
 - ⚡ Fun fact: ...  I still sleep upto 9 am 😄😄😄
--->
+
