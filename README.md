@@ -1,4 +1,7 @@
 ### Hi there 👋  ![](https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Cover%20Pics.png)
+# Hi There 👋    ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/yuvraj-2503)
+
+# Hi There 👋
 
 <!--
 **yuvraj-2503/yuvraj-2503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
