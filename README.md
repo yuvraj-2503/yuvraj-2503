@@ -5,7 +5,7 @@
 <A HREF="https://twitter.com/YuvrajS02491062"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Twitter.svg" WIDTH="29px"></A>
 <A HREF="https://www.facebook.com/people/Yuvraj-Singh/100037555579749"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Facebook.svg" WIDTH="29px"></A>
 <A HREF="https://www.instagram.com/_yuvraj_2503/"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Instagram.svg" WIDTH="29px"></A>
-<A HREF="https://www.hackerrank.com/singh_yuvraj_yu1"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hackerrank.svg" WIDTH="29PX"></A>
+<A HREF="https://www.hackerrank.com/singh_yuvraj_yu1"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hackerrank.svg" WIDTH="29PX"></A> <BR/>
 This is **Yuvraj** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
 - 🔭 I’m currently working on **PG Manager** Project with <a href="https://github.com/GirlScript-Jammu-kashmir">GIRLSCRIPT JAMMU</A> developing an Android App for PG                 Requirements
