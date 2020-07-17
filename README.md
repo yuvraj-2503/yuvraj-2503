@@ -1,5 +1,6 @@
 
 # <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hi.gif" width="29px"> Hello World!!  <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Earth.gif" width="29px">  
+<A HREF="https://www.linkedin.com/in/yuvraj-singh-1889831a1"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/LinkedIn.svg" WIDTH="29px"></A>
 
 This is **Yuvraj** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
 
