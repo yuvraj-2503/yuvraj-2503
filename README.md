@@ -2,7 +2,7 @@
 # <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hi.gif" width="29px"> Hello World!!  <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Earth.gif" width="29px">  
 <A HREF="https://www.linkedin.com/in/yuvraj-singh-1889831a1"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/LinkedIn.svg" WIDTH="29px"></A>
 <A HREF="https://github.com/yuvraj-2503"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Github.svg" WIDTH="29px"></A>
-<A HREF="https://twitter.com/YuvrajS02491062"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Twitter.svg" WIDTH="29px"></A>
+<A HREF="https://twitter.com/Yuvraj2503"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Twitter.svg" WIDTH="29px"></A>
 <A HREF="https://www.facebook.com/people/Yuvraj-Singh/100037555579749"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Facebook.svg" WIDTH="29px"></A>
 <A HREF="https://www.instagram.com/_yuvraj_2503/"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Instagram.svg" WIDTH="29px"></A>
 <A HREF="https://www.hackerrank.com/singh_yuvraj_yu1"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hackerrank.svg" WIDTH="29PX"></A> <p/>
@@ -16,7 +16,7 @@ This is **Yuvraj** here. Most probably you know me. If you know me then I am gla
 - 🤔 I’m looking for help with **AI Skills**
 - 💬 Ask me about **Coding** and **Some Tech Related Stuff**
 - 📫 How to reach me: <A HREF="https://www.linkedin.com/in/yuvraj-singh-1889831a1">Linked In</a> or 
-         <a href="https://twitter.com/YuvrajS02491062">Twitter</a> or <a href="mailto:singh.yuvraj1047@gmail.com">Email</a>
+         <a href="https://twitter.com/Yuvraj2503">Twitter</a> or <a href="mailto:singh.yuvraj1047@gmail.com">Email</a>
 - 😄 Pronouns: ...**Competitive Coder** , **Kind-Hearted** and **Straight-Forward**
 - ⚡ Fun fact: ...  I still sleep upto 9 am 😄😄😄
 
