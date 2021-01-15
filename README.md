@@ -22,9 +22,9 @@ This is **Yuvraj** here. Most probably you know me. If you know me then I am gla
 
 ## About Me
 
-I'm a 2nd Year Student pursuing **Bachelor in Technology** in **Computer Science And Engineering** 🎓 from **Guru Ghasidas Vishwavidyalaya** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into **Android** Development 🕸️ and working on an **Open-Source Project**🤓.
+I'm a 2nd Year Student pursuing **Bachelor in Technology** in **Computer Science And Engineering** 🎓 from **Guru Ghasidas Vishwavidyalaya** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into **Competitive Programming** and **Android Development** and working on an **Open-Source Project**🤓.
 
-I am a **Competitive Programmer**, an **Artificial Intelligence Enthusiast** and an **Open Source Contributor**.
+I am a **Competitive Programmer**, a **Machine Learning Enthusiast** and an **Open Source Contributor**.
 
 My hobbies include **Reading Tech Magizines**, **Journals** and **Listening Music**.
 
