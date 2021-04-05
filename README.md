@@ -1,4 +1,4 @@
-# <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hi.gif" width="29px"> Hello World!!  <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Earth.gif" width="29px">  
+# Hi There  <img src="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Hi.gif" width="29px"> 
 <A HREF="https://www.linkedin.com/in/yuvraj-2503"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/LinkedIn.svg" WIDTH="29px"></A>
 <A HREF="https://github.com/yuvraj-2503"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Github.svg" WIDTH="29px"></A>
 <A HREF="https://twitter.com/Yuvraj2503"><IMG SRC="https://github.com/yuvraj-2503/yuvraj-2503/blob/master/Twitter.svg" WIDTH="29px"></A>
@@ -7,16 +7,15 @@
        
 This is **Yuvraj** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
          
-
-- 🔭 I’m currently working on **PG Manager** Project with <a href="https://github.com/GirlScript-Jammu-kashmir">GIRLSCRIPT JAMMU</A> developing an Android App for PG                 Requirements
-- 🌱 I’m currently learning **Android Development** using **Kotlin**
-- 👯 I’m looking to collaborate on **Facebook**
-- 🤔 I’m looking for help with **AI Skills**
-- 💬 Ask me about **Coding** and **Some Tech Related Stuff**
+- 🔭 I’m currently working on **ONLINE ATTENDANCE SYSTEM** with **<A HREF="https://github.com/Shakshya">SHAKSHYA</A>** which focuses on automating attendance capture system         in online classes, which would be a great help to schools and colleges in this covid era.
+- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS** using **JAVA**.
+- 👯 I’m looking to collaborate on **Open-Sourced Projects** on **AI/ML**.
+- 🤔 I’m looking for help with my **Soft Skills**.
+- 💬 Ask me about **Coding** and **Some Tech Related Stuff**.
 - 📫 How to reach me: <A HREF="https://www.linkedin.com/in/yuvraj-2503">Linked In</a> or 
-         <a href="https://twitter.com/Yuvraj2503">Twitter</a> or <a href="mailto:singh.yuvraj1047@gmail.com">Email</a>
-- 😄 Pronouns: ...**Competitive Coder** , **Kind-Hearted** and **Straight-Forward**
-- ⚡ Fun fact: ...  I still sleep upto 9 am 😄😄😄
+         <a href="https://twitter.com/Yuvraj2503">Twitter</a> or <a href="mailto:singh.yuvraj1047@gmail.com">Email</a>.
+- 😄 Pronouns: ...**Competitive Coder** , **Kind-Hearted** and **Straight-Forward**.
+- ⚡ Fun fact: ...  I still sleep upto 9 am 😄😄😄.
 
 ## About Me
 
@@ -24,7 +23,7 @@ I'm a 2nd Year Student pursuing **Bachelor in Technology** in **Computer Science
 
 I am a **Competitive Programmer**, a **Machine Learning Enthusiast** and an **Open Source Contributor**.
 
-My hobbies include **Reading Tech Magizines**, **Journals** and **Listening Music**.
+My hobbies include **Watching Web Series** and **Listening Music**.
 
 ## My Work Experience
 
