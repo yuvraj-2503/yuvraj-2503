@@ -44,8 +44,20 @@ My hobbies include **Watching Web Series** and **Listening Music**.
   <tbody>
     <tr>
       <td>
+        <em><b>Member - WebD / Android Club</b></em><br />
+         (DSC-GGV)
+      </td>
+      <td>
+        Contributed in the projects and activities of <b>DSC</b> and <b>WebD / Android Club</b> throughout the year.
+      </td>
+      <td>
+        Oct 2020 - Present
+      </td>
+    </tr>
+    <tr>
+      <td>
         <em><b>Website Designer</b></em><br />
-        (GirlScript Foundation)
+        (GirlScript Bilaspur)
       </td>
       <td>
       Design the Front-End of Websites for different events to be conducted by <b>GirlScript Chapter Bilaspur</b>
@@ -65,20 +77,7 @@ My hobbies include **Watching Web Series** and **Listening Music**.
       <td>
         Nov 2019 - Jan 2020
       </td>
-    </tr>
-    <tr>
-      <td>
-        <em><b>Campus Ambassdor</b></em><br />
-        (TechFest - IIT Bombay)
-      </td>
-      <td>
-        Publicise and Promote about TechFest of IIT Bombay
-      </td>
-      <td>
-        Jun 2020 - Present
-      </td>
-    </tr>
-   
+    </tr>   
   </tbody>
 </table>
 
