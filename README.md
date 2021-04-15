@@ -44,7 +44,7 @@ My hobbies include **Watching Web Series** and **Listening Music**.
   <tbody>
     <tr>
       <td>
-        <em><b>Member - WebD / Android Club</b></em><br />
+        <em><b>Co Lead - WebD / Android Club</b></em><br />
          (DSC-GGV)
       </td>
       <td>
