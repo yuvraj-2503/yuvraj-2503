@@ -74,6 +74,21 @@ I have a decent academic background, have completed my graduation in **Bachelor 
         Feb 2022 - Mar 2022
       </td>
     </tr>
+     <tr>
+      <td>
+        <em><b>SDE Intern</b></em><br />
+        (Ziroh Labs)
+      </td>
+      <td>
+      <ul>
+      <li>Developed a Java SDK for a Todo Application like Google Notes, which can create , update , delete and fetch notes using Java and SQLite for storing the todos locally on the user device.</li>
+      <li>Developed a password manager extension which stores and auto fetches passwords during login/signup at any website, and auto fills the text fields using Javascript and NodeJS. </li>
+      </ul>
+      </td>
+      <td>
+        May 2022 - Jun 2022
+      </td>
+    </tr>
   </tbody>
 </table>
 
