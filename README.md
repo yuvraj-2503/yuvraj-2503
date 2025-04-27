@@ -6,19 +6,26 @@
        
 This is **Yuvraj** here. Most probably you know me. If you know me then I am glad. Thank you for your time.
          
-- 🔭 I’m currently working as **Flutter Developer Intern** with **<A HREF="https://github.com/Caard-Club">CAARD CLUB</A>**. My job is to work on the Frontend Part of projects in Flutter and to integrate frontend with backend.
-- 🌱 I’m currently learning **DATA STRUCTURES AND ALGORITHMS** using **JAVA**.
-- 🤔 I’m looking for help with my **Soft Skills**.
-- 💬 Ask me about **CP and DSA**.
+- 🔭 I’m currently working as **SDE-1** with **<A HREF="https://github.com/Swiggy">Swiggy</A>**. I have been working in backend in **Checkout and Payments Team**.
+- 🌱 I’m currently learning to **System Design** and deep diving into **Tech Field**.
+- 🤔 I’m looking to improve my **Communication Skills**.
+- 💬 Ask me about **CP and DSA and Backend and System Design**.
 - 📫 How to reach me: <A HREF="https://www.linkedin.com/in/yuvraj-2503">LinkedIn</a> or <a href="mailto:singh.yuvraj1047@gmail.com">Email</a>.
 - 😄 Pronouns: ...**He/Him**.
 - ⚡ Fun fact: ...  I still sleep upto 9 am 😄😄😄.
 
 ## About Me
 
-I'm a 3rd Year Student pursuing **Bachelor in Technology** in **Computer Science And Engineering** 🎓 from **Guru Ghasidas Vishwavidyalaya** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into **Competitive Programming** and **Android Development**🤓.
+I am currently working as a **SDE-1** in **Checkout & Payments Team** at **Swiggy**. In my past role as an **SDE** at **Ziroh Labs**, I had been actively working on **backend development**, building various APIs in **Java** and **Go**. I have experience in developing SDKs and working with distributed systems. Additionally, I have experience working with **MongoDB**, **SQL**, and **Redis**.
 
-My hobbies include **Binge Watching** and **Listening Music** in my free time.
+Coding Profiles: 
+
+**Leetcode**: <A HREF="https://leetcode.com/u/yuvraj_2503/">Leetcode</a>
+**Codechef**: <A HREF="https://www.codechef.com/users/yuvraj_2503">Codechef</a>
+
+I'm proficient in problem-solving skills honed through years of competitive programming on platforms like **LeetCode (Knight Badge, Top 3.18%)** and **CodeChef (4-star rating)**.
+
+I have a decent academic background, have completed my graduation in **Bachelor of Technology** in **Computer Science Engineering** from **Guru Ghasidas Vishwavidyalaya (Central University)** in **2023** with a decent **8.5 CGPA**.
 
 ## My Work Experience
 
