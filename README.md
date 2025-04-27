@@ -89,6 +89,27 @@ I have a decent academic background, have completed my graduation in **Bachelor 
         May 2022 - Jun 2022
       </td>
     </tr>
+
+   <tr>
+      <td>
+        <em><b>SDE</b></em><br />
+        (Ziroh Labs)
+      </td>
+      <td>
+      <ul>
+      <li>Designed and implemented a worker scheduler for **Zunu Infinity** to manage the allocation and reallocation of over 1000+ workers for AI/ML jobs, optimizing job distribution and improving system efficiency by 20%.</li>
+      <li>Led the creation of a Go-based API to enable real-time notifications via **Redis** and **FCM**, optimizing communication flow and achieving a 20% reduction in response time by applying Go-routines for parallel processing. </li>
+
+   <li>Maintained server in **Java (Vert.x)** and client SDKs for **Zunu Message** in a team of 3, introduced read/received status, react/reply features, and typing status using Redis.</li>
+ <li>Designed and built the **Updates feature**, crafted 20+ APIs in **GoLang** and client SDK in **Java**, ensuring performance.</li>
+ <li>Led the development and enhancement of **Java-based SDK** for **ZunuMail**, integrating secure email handling for a unified platform that allows users to manage over 20+ different **Gmail** and **Outlook** accounts.</li>
+ <li>Enabled **offline** email access with **SQLite**, storing 10,000+ emails for quick retrieval during outages, integrated an **outbox** feature for auto-send on reconnection, enhancing **reliability** and **user experience** in low-connectivity settings.</li>
+      </ul>
+      </td>
+      <td>
+        Jun 2023 - Apr 2025
+      </td>
+    </tr>
   </tbody>
 </table>
 
