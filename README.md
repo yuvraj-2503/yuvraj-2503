@@ -47,7 +47,7 @@ I have a decent academic background, have completed my graduation in **Bachelor 
     <tr>
       <td>
         <em><b>Flutter Developer Intern</b></em><br />
-         (CAARD CLUB)
+         (Caard Club)
       </td>
       <td>
       <ul>
@@ -56,12 +56,12 @@ I have a decent academic background, have completed my graduation in **Bachelor 
       </ul>
       </td>
       <td>
-        Jan 2022 - Present
+        Jan 2022 - Apr 2022
       </td>
     </tr>
     <tr>
       <td>
-        <em><b>Java Intern</b></em><br />
+        <em><b>Project Intern</b></em><br />
         (Ziroh Labs)
       </td>
       <td>
