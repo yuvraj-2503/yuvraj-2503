@@ -20,8 +20,8 @@ I am currently working as a **SDE-1** in **Checkout & Payments Team** at **Swigg
 
 Coding Profiles: 
 
-**Leetcode**: <A HREF="https://leetcode.com/u/yuvraj_2503/">Leetcode</a>
-**Codechef**: <A HREF="https://www.codechef.com/users/yuvraj_2503">Codechef</a>
+**LeetCode**: [yuvraj_2503](https://leetcode.com/u/yuvraj_2503/)  
+**CodeChef**: [yuvraj_2503](https://www.codechef.com/users/yuvraj_2503)
 
 I'm proficient in problem-solving skills honed through years of competitive programming on platforms like **LeetCode (Knight Badge, Top 3.18%)** and **CodeChef (4-star rating)**.
 
